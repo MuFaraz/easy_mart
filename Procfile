@@ -1,2 +1,2 @@
-web: node main.js
+web: node index.js
 web: gunicorn
